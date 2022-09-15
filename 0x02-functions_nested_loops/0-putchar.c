@@ -2,7 +2,10 @@
 
 /**
  * prints _putchar as a message
- *
+ * prints _putchar, followed by a new line.
+
+ * The program should return 0
+
  * return: always 0 (success)
  */
 

@@ -2,11 +2,11 @@
 #include "main.h"
 
 /**
- *print_alphabet10 - prints alphabets X10.
+ *print_alphabet_x10 - prints alphabets X10.
  *
  * Return: Always 0.
  */
-void print_alphabet10(void)
+void print_alphabet_x10(void)
 {
 	char c, i;
 	

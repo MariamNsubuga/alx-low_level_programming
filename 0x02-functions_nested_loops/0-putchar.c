@@ -1,8 +1,11 @@
+/*
+ * Auth: mariam
+ */
 #include "main.h"
 /**
  * main prints _putchar followwd by a new line
  *
- * returns 0
+ * returns always 0
  */
 int main(void)
 {

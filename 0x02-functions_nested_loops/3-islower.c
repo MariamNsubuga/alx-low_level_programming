@@ -2,8 +2,8 @@
 /*
  * _islower - function checks for lowercase character
  *
- *@c: is the int that will use for the argument of the function
- *
+ * *
+ * @c: this is the int argment of the function
  * Returns: Always 0
  *
  */

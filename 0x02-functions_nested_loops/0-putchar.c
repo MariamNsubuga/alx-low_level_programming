@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * prints _putchar as a message
+ *
+ */
+
 int main(void)
 {
 	int str[] = { 1,2,3,4,5,6,7,8,9};

@@ -3,6 +3,7 @@
 /**
  * prints _putchar as a message
  *
+ * return: always 0 (success)
  */
 
 int main(void)

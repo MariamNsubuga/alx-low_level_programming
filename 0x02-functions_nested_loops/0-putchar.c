@@ -1,24 +1,18 @@
 #include "main.h"
-
 /**
- * prints _putchar as a message
- * prints _putchar, followed by a new line.
-
- * The program should return 0
-
- * return: always 0 (success)
+ * main prints _putchar followwd by a new line
+ *
  */
-
-int main(void)
-{
-	int str[] = { 1, 2, 3, 4, 500, 6, 7, 8, 9};
-	int count, sz;
-
-	sz = sizeof(str) / sizeof(int);
-	for (count = 0; count < sz; count++)
-	{
-		_putchar(str[count]);
-	}
+int main(void){
+	_putchar('_');
+	-putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }

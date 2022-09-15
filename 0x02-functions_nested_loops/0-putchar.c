@@ -3,9 +3,9 @@
  */
 #include "main.h"
 /**
- * main prints _putchar followwd by a new line
+ * main - Prints _putchar  as a message.
  *
- * returns always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

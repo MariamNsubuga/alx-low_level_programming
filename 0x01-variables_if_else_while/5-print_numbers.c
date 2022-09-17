@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- *
  * main - prints the number since 0 to 9
  *
  * return: always (Success)

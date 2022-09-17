@@ -18,7 +18,7 @@ int main(void)
 	  /* your code goes there */
 
 	if (n > 0)
-	{https://alx-intranet.hbtn.io/projects/213
+	{
 		printf("%i is positive\n", n);
 	}
 	else if (n == 0)

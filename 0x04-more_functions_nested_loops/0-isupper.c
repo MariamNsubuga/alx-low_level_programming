@@ -1,11 +1,11 @@
 #include "main.h"
 /**
- * main - check the code.
- *
- * Return: Always 0.
+ * _isupper - check the code.
+ * @c: chatacter used
+ * Return: Always (Success)
  */
 
-int  _isupper(int c)
+int _isupper(int c)
 {
 	char uppercase = 'A';
 	int isupper = 0;

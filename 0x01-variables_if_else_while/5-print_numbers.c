@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints the number since 0 to 9
- *
+ * main - prints the number
  * return: always (Success)
  */
 int main(void)

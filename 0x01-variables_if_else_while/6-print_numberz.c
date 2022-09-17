@@ -2,7 +2,7 @@
 
 /**
  * main - prints mumbers
- * return: always 0
+ * return: Always (Success)
  */
 int main(void)
 {

@@ -2,7 +2,6 @@
 
 /**
  * void times_table : this function prints the 9 times table.
- 
  */
 
 void times_table(void)

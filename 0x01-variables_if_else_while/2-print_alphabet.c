@@ -3,8 +3,8 @@
 /**
  * main - prints alphabet letters
  *
- * Descripton: prints alphbet etters
- * Return: Always 0 
+ * Descripton: prints alphbet letters
+ * Return: Always 0
  */
 int main(void)
 {

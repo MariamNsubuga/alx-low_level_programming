@@ -1,10 +1,30 @@
 #include "main.h"
 /**
- * reset_to_98 - resets the value of 98
- * @n: parameter
- * Return: nothing
+ * _strcat - concatenates two strings
+ * @dest: input parameter string
+ * @src: input parameter string
+ *
+ * Return: dest
  */
-void reset_to_98(int *n)
+char *_strcat(char *dest, char *src)
 {
-	*n = 98;
+	int a;
+	int b;
+
+	a = 0;
+
+	while (dest[a] != 0)
+	{
+		a++;
+	}
+
+	b = 0;
+
+	while (src[b] != 0)
+	{
+		dest[a] = src[b];
+		a++;
+		b++;
+	}
+	return (dest);
 }

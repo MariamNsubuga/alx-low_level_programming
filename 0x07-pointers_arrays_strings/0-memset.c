@@ -1,18 +1,20 @@
 #include "main.h"
 /**
- * _memset - fills in the first n bytes of memory 
+ * *_memset - fills in the first n bytes of memory 
  * @s: pointer to memory
- * @n: bytes to be filled
- * @c: character to fill the memory
+ * @n: char to copy
+ * @b: char to copy
+ *
  * Return: pointer to  filled memory area @s.
  */
-void *_memset(char *s, char c, unsigned int n)
+void *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int x;
 
-	for (x=0; x<n; x++)
+	for (x = 0; x < n; x++)
 	{
-		s[x] = c;
+		s[x] = b;
 	}
+
 	return (s);
 }
